@@ -1,0 +1,51 @@
+{
+    "employees":[
+        {
+            "id": 1,
+            "name": "russell",
+            "computerId": 1,
+            "departmentId": 1
+        },
+        {
+            "id": 2,
+            "name": "matt",
+            "computerId": 2,
+            "departmentId": 1
+        },
+        {
+            "id": 3,
+            "name": "bobby",
+            "computerId":  3,
+            "departmentId": 2
+        }
+    ],
+
+    "departments":[
+        {
+            "id":1,
+            "name":"accounting"
+        },
+        {
+            "id":2,
+            "name":"IT"
+        }
+
+
+    ],
+
+    "computers": [
+        {
+            "id":1,
+            "serialNumber":"12345622"
+        },
+        {
+            "id":2,
+            "serialNumber":"78910111"
+        },
+        {
+            "id":3,
+            "serialNumber":"12131415"
+        }
+    ]
+
+}

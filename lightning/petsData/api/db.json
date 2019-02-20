@@ -1,0 +1,51 @@
+{
+    "owners":[
+    {
+        "name": "Russ",
+        "id": 1
+    },
+    {
+        "name": "Dale",
+        "id": 2
+    },
+    {
+        "name": "Matt",
+        "id": 3
+    },
+    {
+        "name": "Bobby",
+        "id": 4
+    }],
+
+    "pets":[
+        {
+            "petName": "fluffy",
+            "ownerID": 1
+        },
+        {
+            "petName": "joeFluffy",
+            "ownerID": 2
+        },
+        {
+            "petName": "ms Kitty",
+            "ownerID": 1
+        },
+        {
+            "petName": "good boy",
+            "ownerID": 4
+        }],
+
+    "species":[
+        {   "species": "cat",
+            "speciesID": 1
+        },
+        {   "species": "dog",
+            "speciesID": 2
+        }
+
+    ]
+
+
+
+}
+
